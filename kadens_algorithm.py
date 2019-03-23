@@ -1,3 +1,4 @@
+# Kaden's Algorithm - To find maximum subarray sum
 x = [8, 16, -20, -5, 8, -2, 16, 3]
 sum_so_far, max_sum = 0, 0
 
