@@ -1,3 +1,5 @@
+# Given an array A and an integer K. Find the maximum for each and every contiguous subarray of size K.
+
 from collections import deque
 for __ in range(int(input())):
     n, k = list(map(int, input().split()))
